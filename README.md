@@ -22,9 +22,9 @@ I wanted to practice real-world data analysis and visualization, and to answer i
 - First female Nobel laureate
 - Repeat Nobel Prize winners
 
-![Most Awarded Gender](plots/gender_award.png)
+![Most Awarded Gender](plots/gender_birth_country_analysis.png)
 ![US-born Laureates by Decade](plots/us_laureates_decade.png)
-![Female Laureates by Category](plots/female_laureates_category.png)
+![Female Laureates by Category](plots/female_laureates_analysis.png)
 
 ## 📝 What I Learned
 - How to clean and explore a real dataset
